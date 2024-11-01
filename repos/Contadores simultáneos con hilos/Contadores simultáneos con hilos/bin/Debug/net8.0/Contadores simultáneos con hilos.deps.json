@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contadores simultáneos con hilos/1.0.0": {
+        "runtime": {
+          "Contadores simultáneos con hilos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contadores simultáneos con hilos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

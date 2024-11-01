@@ -1,0 +1,14 @@
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\Contadores simultáneos con hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\Contadores simultáneos con hilos.AssemblyInfoInputs.cache
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\Contadores simultáneos con hilos.AssemblyInfo.cs
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\Contadores simultáneos con hilos.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\bin\Debug\net8.0\Contadores simultáneos con hilos.exe
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\bin\Debug\net8.0\Contadores simultáneos con hilos.deps.json
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\bin\Debug\net8.0\Contadores simultáneos con hilos.runtimeconfig.json
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\bin\Debug\net8.0\Contadores simultáneos con hilos.dll
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\bin\Debug\net8.0\Contadores simultáneos con hilos.pdb
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\Contadores simultáneos con hilos.dll
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\refint\Contadores simultáneos con hilos.dll
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\Contadores simultáneos con hilos.pdb
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\Contadores simultáneos con hilos.genruntimeconfig.cache
+C:\Users\Ezequiel Silverio\source\repos\Contadores simultáneos con hilos\Contadores simultáneos con hilos\obj\Debug\net8.0\ref\Contadores simultáneos con hilos.dll
